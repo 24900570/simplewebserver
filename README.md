@@ -44,27 +44,32 @@ content=""""
     </style>
 </head>
 <body>
-    <h2>Student Information</h2>
+    <h2>TCP/IP Protocols</h2>
     <table>
         <tr>
-            <th>Name</th>
-            <th>Age</th>
-            <th>Grade</th>
+            <th>S.no</th>
+            <th>Layers</th>
+            <th>Protocols</th>
         </tr>
         <tr>
-            <td>Alice</td>
-            <td>20</td>
-            <td>A</td>
+            <td>1</td>
+            <td>Application Layer</td>
+            <td>HTTP,FTP,Telnet,DNS</td>
         </tr>
         <tr>
-            <td>Bob</td>
-            <td>22</td>
-            <td>B</td>
+            <td>2</td>
+            <td>Transport Layer</td>
+            <td>TCP,UDP</td>
         </tr>
         <tr>
-            <td>Charlie</td>
-            <td>21</td>
-            <td>A</td>
+            <td>3</td>
+            <td>Internet Layer</td>
+            <td>IPv4,IPv6</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Network Access Layer</td>
+            <td>Ethernet,MAC</td>
         </tr>
     </table>
 </body>
@@ -83,7 +88,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-03-18 175510.png>)
+![Screenshot 2025-03-26 103123](https://github.com/user-attachments/assets/76d20d63-5ff2-498b-b407-5bddab0a5b0b)
+
 ![alt text](<Screenshot 2025-03-18 175519.png>)
 
 
