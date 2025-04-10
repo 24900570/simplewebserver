@@ -1,7 +1,5 @@
 # EX01 Developing a Simple Webserver
 ## Date:10.04.2025
-## NAME:Ajith A
-## Date:18.03.2025
 ## NAME:AJITH.A
 
 ## REG NO:212224230012
