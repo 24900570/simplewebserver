@@ -1,7 +1,7 @@
 # EX01 Developing a Simple Webserver
 ## Date:18.03.2025
-## NAME:Madhesh I
-## REG NO:212224220055
+## NAME:AJITH.A
+## REG NO:212224230012
 
 
 ## AIM:
