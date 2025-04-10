@@ -1,11 +1,9 @@
 # EX01 Developing a Simple Webserver
-<<<<<<< HEAD
 ## Date:10.04.2025
 ## NAME:Ajith A
-=======
 ## Date:18.03.2025
 ## NAME:AJITH.A
->>>>>>> fff377f06234d3f7be396b6268cc23c285888ec9
+
 ## REG NO:212224230012
 
 
@@ -30,7 +28,6 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-<<<<<<< HEAD
 ```
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
